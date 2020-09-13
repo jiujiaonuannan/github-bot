@@ -1,10 +1,10 @@
 # rename this file to .env
 
 # Bot's personal access tokens, get from https://github.com/settings/tokens
-GITHUB_TOKEN=token
+GITHUB_TOKEN=d2d989474ca9458792d45f937d22b9d249c566b1
 
 # Webhook secret token, see https://developer.github.com/webhooks/securing/
-GITHUB_SECRET_TOKEN=secret
+GITHUB_SECRET_TOKEN=6db60c932264394e5646fe66fb05dbf1be8a3f4f
 
 # Logger type: default is console, if you want write log to file, set 'file'
 LOG_TYPE=console
